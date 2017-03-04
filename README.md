@@ -28,7 +28,7 @@
 
 ### Infrastrucuture Architecture
 
-### Technology Stack
+### Hack Oregon Application Technology Stack
 
 ### Continuous Integration and Delivery Model
 
