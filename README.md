@@ -1,20 +1,22 @@
-### 1. Architecture Overview
+### Architecture Overview
 
-### 2. Component Model
+### Architecture Principles
 
-### 3. Non-Functional Requirements
+### Component Model
 
-#### 3.1 Reliability and Resilience
+### Non-Functional Requirements
 
-#### 3.2 Performance
+#### Reliability and Resilience
 
-#### 3.3 Data Integrity
+#### Performance
+
+#### Data Integrity
 
 ##### Data Provenance
 
 ##### Data Privacy
 
-#### 3.4 Security
+#### Security
 
 ##### Identity and Access Management
 
@@ -22,15 +24,15 @@
 
 ##### Perimiter Security
 
-### 4. Logical Operational Model
+### Logical Operational Model
 
-### 5. Infrastrucuture Architecture
+### Infrastrucuture Architecture
 
-### 6. Technology Stack
+### Technology Stack
 
-### 7. Continuous Integration and Delivery Model
+### Continuous Integration and Delivery Model
 
-#### 7.1 User Stories by Persona
+#### User Stories by Persona
 
 ##### Front End Developer
 
@@ -40,11 +42,31 @@
 
 ##### Branching and Versioning Strategy
 
-#### 7.2 Front End Pipeline
+#### Front End Pipeline
 
-#### 7.3 Services Pipeline
+#### Services Pipeline
 
-#### 7.4 Data Pipeline
+#### Data Pipeline
 
-### 8. Operational Monitoring Architecture
+### Operational Monitoring Architecture
+
+### Artifacts and Code
+
+#### Front End Pipeline Exemplar
+##### Getting Started Guide
+##### Exemplar Pipeline
+
+#### Services Pipeline
+##### Getting Started Guide
+##### Exemplar Pipeline
+
+#### Data Pipeline 
+##### Getting Started Guide
+##### Exemplar Pipeline
+
+#### Infrastructure Provisioning 
+
+
+
+
 
